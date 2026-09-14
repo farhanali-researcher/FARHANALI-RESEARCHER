@@ -1,56 +1,97 @@
 <div align="center">
 
-<!-- 3D Cinematic DNA / Sci-Fi Header -->
-<img src="https://i.gifer.com/origin/f1/f1a7192a54b34b68074900fb5e8b4bb6_w200.gif" width="100%" height="250" style="object-fit: cover;" alt="3D Cinematic DNA">
+<!-- Cinematic 3D Laboratory & DNA Header Dashboard -->
+<table width="100%" style="background-color: #0d1117; border: none;">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://i.gifer.com/7bIf.gif" width="100%" alt="3D DNA Spinning">
+    </td>
+    <td align="center" width="50%">
+      <img src="https://i.gifer.com/Xqg8.gif" width="100%" alt="Microscope Lab">
+    </td>
+  </tr>
+</table>
 
-<!-- Terminal / Movie UI Animated Text (Orbitron Sci-Fi Font) -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=SYSTEM+ONLINE...;DECODING+THE+HUMAN+GENOME...;FARHAN+ALI+|+COMPUTATIONAL+BIOLOGIST;INITIATING+CLINICAL+AI+PIPELINES..." alt="Typing SVG" /></a>
+<!-- Animated Terminal Telemetry -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&pause=1000&color=00FF9D&center=true&vCenter=true&width=1000&lines=INITIALIZING+SECURE+ENVIRONMENT...;USER:+FARHAN+ALI+[AUTHORIZED];ACCESSING+CLINICAL+DIAGNOSTICS+DATABASE...;LOADING+COMPUTATIONAL+BIOLOGY+PIPELINES...;SYSTEM+READY." alt="Typing SVG" />
+</a>
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhanali010/)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF9D)](mailto:farhanali.mlt010@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30)](https://www.linkedin.com/in/farhanali010/)
+[![Email](https://img.shields.io/badge/Encrypted_Comms-000000?style=for-the-badge&logo=gmail&logoColor=00FF9D&logoWidth=30)](mailto:farhanali.mlt010@gmail.com)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 </div>
 
+### 🧬 [ DIRECTIVE: CLINICAL DIAGNOSTICS ✕ MULTI-OMICS ]
+
+Operating at the intersection of medical laboratory technology and advanced artificial intelligence. Currently stationed at **Alkhidmat Blood Bank and Diagnostic Center** in Peshawar, I engineer automated workflows that decode biological complexities. I transform raw clinical data into high-dimensional, actionable scientific insights using sophisticated computational infrastructure.
+
 <br>
 
-**> DIRECTIVE: BRIDGING CLINICAL DIAGNOSTICS & MULTI-OMICS**
-I am Farhan Ali, currently stationed at Alkhidmat Blood Bank and Diagnostic Center. I transform raw clinical data into high-dimensional, actionable scientific insights. Operating at the intersection of medical laboratory technology and advanced artificial intelligence, I engineer automated workflows that decode biological complexities.
-
-<br>
-
-**> CORE ARCHITECTURE & TECHNOLOGIES**
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,linux,bash,github,vscode&theme=dark&perline=6" />
-  </a>
+
+### 🔬 [ SYSTEM ARCHITECTURE & CORE TECHNOLOGIES ]
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM0NTY3ODkwMTIzNDU2Nzg5MDEyMzQ1Njc4OTAxMjM0NTY3ODkwMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o7TKSjRrfIPjeiVyM/giphy.gif" width="80px"><br>
+      <b>DATA & STATISTICS</b><br>
+      <code>R</code> (tidyverse, ggplot2)<br>
+      Discrete-event sim (simmer)
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTIzNDU2Nzg5MDEyMzQ1Njc4OTAxMjM0NTY3ODkwMTIzNDU2Nzg5MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xT9IgzoKnwFNmISR8I/giphy.gif" width="80px"><br>
+      <b>GENOMIC PIPELINES</b><br>
+      <code>Python</code> (Biopython, pandas)<br>
+      Ensembl REST API
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzQ1Njc4OTAxMjM0NTY3ODkwMTIzNDU2Nzg5MDEyMzQ1Njc4OTAxMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/26tn33aiTi1jIGsD6/giphy.gif" width="80px"><br>
+      <b>INFRASTRUCTURE</b><br>
+      <code>Linux</code> / <code>Bash</code><br>
+      Command-line execution
+    </td>
+  </tr>
+</table>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,r,linux,bash,github,vscode,ai,docker&theme=dark&perline=8" />
+</a>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
 </div>
 
-*   **Data & Statistics:** `R` (tidyverse, ggplot2, simmer for discrete-event laboratory simulation).
-*   **Genomic Pipelines:** `Python` (Biopython, Ensembl REST API, pandas) and `R` (Biostrings) for variant annotation, sequence retrieval, and gene translation.
-*   **System Infrastructure:** `Linux / Bash Scripting` for high-speed automated command-line execution.
-*   **Clinical AI Integration:** Implementing prompt engineering and AI-driven literature analysis for forward-looking clinical research.
+### 🌍 [ GLOBAL INITIATIVES & OPERATIONS ]
 
-<br>
-
-**> GLOBAL INITIATIVES & ACADEMICS**
 *   **Global Computer Science Institute (GCI):** University of Tokyo (Fall 2026 Cohort).
+*   **Scientific Operations:** Certified in *Writing in the Sciences* by Stanford University.
 *   **Aspire Leaders Program:** Participant in Cohort 3.
-*   **Scientific Operations:** Certified in Scientific Writing by Stanford University.
-
-<br>
 
 <div align="center">
 
-**> TELEMETRY & COMPUTATIONAL FOOTPRINT**
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-<!-- Cinematic Dark Sci-Fi GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=ffffff" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=ffffff" width="48%">
+### 📊 [ LIVE TELEMETRY & COMPUTATIONAL FOOTPRINT ]
 
-*Replace `YOUR_GITHUB_USERNAME` in the two links above with your exact GitHub username to activate live telemetry.*
+<!-- 3D Radar/Globe Animation -->
+<img align="right" src="https://i.gifer.com/embedded/download/1Ztz.gif" width="250" alt="3D Globe Telemetry">
 
-<!-- Animated Cinematic Wave Footer -->
+<!-- GitHub Stats -->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=ffffff&icon_color=00FF9D" width="400">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=ffffff" width="400">
+
+<br clear="both"/>
+<br>
+
+*(Configure Telemetry: Replace `YOUR_GITHUB_USERNAME` in the URLs above to activate live tracking.)*
+
+<!-- Animated Sci-Fi Wave Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF9D&height=120&section=footer" width="100%">
+
 </div>
