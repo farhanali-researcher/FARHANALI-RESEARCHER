@@ -1,27 +1,47 @@
-![Farhan Ali Profile Banner](https://via.placeholder.com/1500x400/0b0f19/00e5ff/?text=Farhan+Ali+%7C+Medical+Laboratory+Technologist+%26+Computational+Biology)
-
 <div align="center">
 
-**Farhan Ali**
-*Medical Laboratory Technologist — Bioinformatics | Data Science | Clinical AI*
+<!-- Cinematic Banner -->
+<img src="https://via.placeholder.com/1500x400/0a0a0a/00e5ff/?text=FARHAN+ALI+%7C+CLINICAL+DIAGNOSTICS+%E2%9C%95+COMPUTATIONAL+BIOLOGY" width="100%" alt="Banner">
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
-[![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](#)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](#)
+<!-- Animated Typing Text -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Medical+Laboratory+Technologist;Computational+Biologist+%26+Data+Scientist;Bridging+Clinical+Intuition+with+AI+Pipelines" alt="Typing SVG" /></a>
+
+*Decoding biology at the intersection of the clinical laboratory and artificial intelligence.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhanali010/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhanali.mlt010@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 
 </div>
 
-**About Me**
-I am a Medical Laboratory Technologist currently advancing diagnostics at Alkhidmat Blood Bank and Diagnostic Center. My work bridges hands-on clinical intuition with automated bioinformatics, transforming raw laboratory and sequencing data into actionable scientific insights. 
+<br>
 
-**Core Expertise**
-My workflows integrate traditional medical diagnostics with modern computational pipelines. I build automated solutions utilizing **Python** (Ensembl REST API, pandas, openpyxl) for variant annotation and data manipulation, alongside **R** (ggplot2, Biostrings, simmer) for complex statistical analysis, gene translation, and discrete-event laboratory simulation. I am passionate about sequence retrieval, BLAST searches, and deploying artificial intelligence to optimize clinical laboratory workflows.
+### 🔬 The Architecture of My Work
+I transform raw clinical data and biological sequences into actionable, publication-ready scientific insights. Currently stationed at Alkhidmat Blood Bank and Diagnostic Center, my workflows merge traditional medical laboratory technology with advanced computational infrastructure. 
 
-**Current Focus**
-* Developing and publishing open-source computational research repositories for biological sequence analysis.
-* Expanding automated command-line workflows using Linux terminal and Bash scripting.
-* Evaluating AI-driven prompt engineering tools to accelerate clinical research and scientific documentation.
+**Core Technical Stack**
+*   **Data & Statistics:** `R` (tidyverse, ggplot2, simmer for discrete-event laboratory simulation).
+*   **Bioinformatics & Automation:** `Python` (Biopython, Ensembl REST API, pandas) and `R` (Biostrings) for variant annotation, sequence retrieval, and gene translation.
+*   **Infrastructure:** `Linux / Bash Scripting` for automated command-line workflows and directory management.
+*   **Clinical AI:** Implementing prompt engineering and AI-driven literature analysis for clinical research.
 
-**Get in Touch**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](#)
+<br>
+
+### 🌍 Global Trajectory & Academics
+Beyond the laboratory, I am actively expanding the footprint of computational biology through international programs and continuous integration of modern research methodologies:
+*   **Global Computer Science Institute (GCI):** University of Tokyo (Fall 2026 Cohort).
+*   **Aspire Leaders Program:** Participant in Cohort 3.
+*   **Scientific Writing:** Certified by Stanford University (Writing in the Sciences).
+
+<br>
+
+<div align="center">
+
+### 📊 Computational Footprint
+
+<!-- Dynamic GitHub Stats (Auto-updates based on your GitHub activity) -->
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00e5ff&text_color=ffffff" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00e5ff&text_color=ffffff" width="48%">
+
+*Note: Replace `YOUR_GITHUB_USERNAME` in the two image links above with your actual GitHub username to activate the live stat tracking.*
+</div>
