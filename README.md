@@ -17,7 +17,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=farhanali010&style=for-the-badge&color=00FF9D&label=PROFILE+SCANS" alt="Profile views"/>
 &nbsp;
-<a href="https://github.com/farhanali010?tab=followers">
+<a href="https://github.com/farhanali-researcher?tab=followers">
 <img src="https://img.shields.io/github/followers/farhanali010?style=for-the-badge&color=00E5FF&labelColor=0d1117&label=FOLLOWERS" alt="GitHub followers"/>
 </a>
 
