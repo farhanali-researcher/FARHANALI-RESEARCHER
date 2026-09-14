@@ -5,33 +5,61 @@
 ╚══════════════════════════════════════════════════════════════════════════════╝
 -->
 
+<!--
+NOTE:
+GitHub README files do not reliably allow CSS page backgrounds.
+Instead of a white/plain README, this design uses dark laboratory/DNA
+visuals, cinematic banners, dark panels, neon telemetry, and animated
+biological imagery to create a laboratory-themed environment.
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0d1117&customColorList=0&text=FARHAN%20ALI&fontColor=00FF9D&fontSize=62&fontAlignY=38&desc=MEDICAL%20LABORATORY%20TECHNOLOGIST%20%7C%20COMPUTATIONAL%20BIOLOGIST&descAlignY=61&descSize=17&animation=twinkling" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=Clinical+Diagnostics+%3E%3E%3E+Computational+Biology;Genomics+%7C+Multi-Omics+%7C+AI+Pipelines;Laboratory+Data+%7C+Simulation+%7C+Bioinformatics;Translating+Biological+Signals+into+Clinical+Insight" alt="Typing SVG" />
-</a>
+<!-- CINEMATIC DNA / LABORATORY HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0b1418&customColorList=0&text=FARHAN%20ALI&fontColor=00FF9D&fontSize=62&fontAlignY=37&desc=MEDICAL%20LABORATORY%20TECHNOLOGIST%20%7C%20COMPUTATIONAL%20BIOLOGIST&descAlignY=61&descSize=17&animation=twinkling" width="100%"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=farhanali010&style=for-the-badge&color=00FF9D&label=PROFILE+SCANS" alt="Profile views"/>
+<!-- ANIMATED BIOLOGICAL / DNA VISUAL -->
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="430" alt="Scientific molecular animation"/>
+
+<br><br>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Clinical+Diagnostics+%3E%3E%3E+Computational+Biology;Genomics+%7C+Multi-Omics+%7C+AI+Pipelines;Laboratory+Data+%7C+Simulation+%7C+Bioinformatics;Biological+Signals+%3E%3E%3E+Computational+Insight;Building+the+Laboratory+of+the+Future" alt="Typing SVG"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=farhanali-researcher&style=for-the-badge&color=00FF9D&label=PROFILE+SCANS" alt="Profile Views"/>
+
 &nbsp;
+
 <a href="https://github.com/farhanali-researcher?tab=followers">
-<img src="https://img.shields.io/github/followers/farhanali-researcher?style=for-the-badge&color=00E5FF&labelColor=0d1117&label=FOLLOWERS" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/followers/farhanali-researcher?style=for-the-badge&color=00E5FF&labelColor=0b1418&label=FOLLOWERS" alt="GitHub Followers"/>
 </a>
 
 </div>
 
 ---
 
-## `// SYSTEM.IDENTITY`
+<!-- =============================================================== -->
+<!-- SYSTEM IDENTITY -->
+<!-- =============================================================== -->
+
+<div align="center">
+
+# `🧬 SYSTEM.IDENTITY`
+
+### `BIOLOGICAL COMPUTING // CLINICAL INTELLIGENCE`
+
+</div>
 
 <table>
 <tr>
 <td width="55%" valign="top">
 
-### 🧬 Farhan Ali
+### 🧪 Farhan Ali
 
 **Medical Laboratory Technologist & Computational Biologist**
 
@@ -39,33 +67,45 @@ I work at the intersection of **clinical laboratory diagnostics, computational b
 
 My trajectory is built around one objective:
 
-> **Bridge the physical laboratory with computational intelligence.**
+> 🧬 **Bridge the physical laboratory with computational intelligence.**
 
-I combine hands-on clinical laboratory experience with computational approaches for biological data, with particular interest in **multi-omics, reproducible AI pipelines, genomic analysis, and discrete-event laboratory simulation**.
+I combine hands-on clinical laboratory experience with computational approaches for biological data, with particular interest in:
+
+- 🧬 Genomics
+- 🔬 Clinical diagnostics
+- 🧫 Molecular biology
+- 🤖 AI-driven biological analysis
+- 📊 Multi-omics
+- ⚙️ Discrete-event laboratory simulation
+- 💻 Reproducible computational pipelines
 
 </td>
 
 <td width="45%" valign="top">
 
 ```text
-┌────────────────────────────────────┐
-│        BIOLOGICAL COMPUTING         │
-├────────────────────────────────────┤
-│                                    │
-│  INPUT                             │
-│    ↓                               │
-│  Clinical Specimens                │
-│    ↓                               │
-│  Laboratory Diagnostics            │
-│    ↓                               │
-│  Structured Biological Data         │
-│    ↓                               │
-│  Computational Analysis             │
-│    ↓                               │
-│  AI / Multi-Omics Pipelines        │
-│    ↓                               │
-│  Simulation & Modeling              │
-│    ↓                               │
-│  CLINICAL INSIGHT                  │
-│                                    │
-└────────────────────────────────────┘
+╔════════════════════════════════════╗
+║       🧬 BIOLOGICAL COMPUTING      ║
+╠════════════════════════════════════╣
+║                                    ║
+║       🧪 CLINICAL SPECIMENS        ║
+║                 │                  ║
+║                 ▼                  ║
+║       🔬 LABORATORY TESTING        ║
+║                 │                  ║
+║                 ▼                  ║
+║       📊 BIOLOGICAL DATA           ║
+║                 │                  ║
+║                 ▼                  ║
+║       🧬 GENOMIC ANALYSIS          ║
+║                 │                  ║
+║                 ▼                  ║
+║       🤖 AI / MULTI-OMICS          ║
+║                 │                  ║
+║                 ▼                  ║
+║       ⚙️ SIMULATION / MODELING     ║
+║                 │                  ║
+║                 ▼                  ║
+║       🧠 CLINICAL INSIGHT          ║
+║                                    ║
+╚════════════════════════════════════╝
