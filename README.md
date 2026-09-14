@@ -1,57 +1,56 @@
-<!-- Dynamic Cinematic Header with Animated Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00e5ff&height=250&section=header&text=Farhan%20Ali&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=Clinical%20Diagnostics%20%E2%9C%95%20Computational%20Biology&descAlignY=75" width="100%">
-
 <div align="center">
 
-<!-- Animated Terminal Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=>_Initializing+Medical+Laboratory+Workflows...;>_Executing+Computational+Biology+Pipelines...;>_Bridging+Clinical+Intuition+with+AI..." alt="Typing SVG" /></a>
+<!-- 3D Cinematic DNA / Sci-Fi Header -->
+<img src="https://i.gifer.com/origin/f1/f1a7192a54b34b68074900fb5e8b4bb6_w200.gif" width="100%" height="250" style="object-fit: cover;" alt="3D Cinematic DNA">
+
+<!-- Terminal / Movie UI Animated Text (Orbitron Sci-Fi Font) -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=SYSTEM+ONLINE...;DECODING+THE+HUMAN+GENOME...;FARHAN+ALI+|+COMPUTATIONAL+BIOLOGIST;INITIATING+CLINICAL+AI+PIPELINES..." alt="Typing SVG" /></a>
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhanali010/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhanali.mlt010@gmail.com)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF9D)](mailto:farhanali.mlt010@gmail.com)
 
 </div>
 
 <br>
 
-**The Architecture of My Work**
-I transform raw clinical sequencing data into actionable, publication-ready scientific insights. Currently advancing diagnostics at Alkhidmat Blood Bank and Diagnostic Center, my workflows merge traditional medical laboratory technology with high-performance computational infrastructure.
+**> DIRECTIVE: BRIDGING CLINICAL DIAGNOSTICS & MULTI-OMICS**
+I am Farhan Ali, currently stationed at Alkhidmat Blood Bank and Diagnostic Center. I transform raw clinical data into high-dimensional, actionable scientific insights. Operating at the intersection of medical laboratory technology and advanced artificial intelligence, I engineer automated workflows that decode biological complexities.
 
 <br>
 
-**Core Technical Stack**
+**> CORE ARCHITECTURE & TECHNOLOGIES**
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,r,linux,bash,github,vscode&theme=dark&perline=6" />
   </a>
 </div>
+
+*   **Data & Statistics:** `R` (tidyverse, ggplot2, simmer for discrete-event laboratory simulation).
+*   **Genomic Pipelines:** `Python` (Biopython, Ensembl REST API, pandas) and `R` (Biostrings) for variant annotation, sequence retrieval, and gene translation.
+*   **System Infrastructure:** `Linux / Bash Scripting` for high-speed automated command-line execution.
+*   **Clinical AI Integration:** Implementing prompt engineering and AI-driven literature analysis for forward-looking clinical research.
+
 <br>
 
-* **Data & Statistics:** `R` (tidyverse, ggplot2, simmer for discrete-event laboratory simulation).
-* **Bioinformatics & Automation:** `Python` (Biopython, Ensembl REST API, pandas) and `R` (Biostrings) for variant annotation, sequence retrieval, and gene translation.
-* **Infrastructure:** `Linux / Bash Scripting` for automated command-line workflows.
-* **Clinical AI:** Implementing prompt engineering and AI-driven literature analysis for clinical research.
-
-<br>
-
-**Global Trajectory & Academics**
-* **Global Computer Science Institute (GCI):** University of Tokyo (Fall 2026 Cohort).
-* **Aspire Leaders Program:** Participant in Cohort 3.
-* **Scientific Writing:** Certified by Stanford University (Writing in the Sciences).
+**> GLOBAL INITIATIVES & ACADEMICS**
+*   **Global Computer Science Institute (GCI):** University of Tokyo (Fall 2026 Cohort).
+*   **Aspire Leaders Program:** Participant in Cohort 3.
+*   **Scientific Operations:** Certified in Scientific Writing by Stanford University.
 
 <br>
 
 <div align="center">
 
-**Computational Footprint**
+**> TELEMETRY & COMPUTATIONAL FOOTPRINT**
 
-<!-- Dynamic GitHub Stats with Dark Neon Theme -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00e5ff&text_color=ffffff" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00e5ff&text_color=ffffff" width="48%">
+<!-- Cinematic Dark Sci-Fi GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=ffffff" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=ffffff" width="48%">
 
-*Remember to replace `YOUR_GITHUB_USERNAME` in the links above with your exact GitHub username to activate the live stat tracking.*
+*Replace `YOUR_GITHUB_USERNAME` in the two links above with your exact GitHub username to activate live telemetry.*
 
-<!-- Animated Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:000000&height=100&section=footer" width="100%">
+<!-- Animated Cinematic Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF9D&height=120&section=footer" width="100%">
 </div>
