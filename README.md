@@ -15,8 +15,10 @@ biological imagery to create a laboratory-themed environment.
 
 <div align="center">
 
-<!-- CINEMATIC DNA / LABORATORY HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0b1418&customColorList=0&text=FARHAN%20ALI&fontColor=00FF9D&fontSize=62&fontAlignY=37&desc=MEDICAL%20LABORATORY%20TECHNOLOGIST%20%7C%20COMPUTATIONAL%20BIOLOGIST&descAlignY=61&descSize=17&animation=twinkling" width="100%"/>
+## 🔗 Quick Links
+
+*   **Cinematic DNA Website:** [Visit Cinematic DNA](https://cinematicdna.com)
+*   **LAB Platform:** [Access the LAB](https://cinematicdna.com)
 
 <br>
 
