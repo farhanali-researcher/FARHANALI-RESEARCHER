@@ -1,72 +1,71 @@
-<p align="center">
-  <h1 align="center">Farhan Ali</h1>
-  <p align="center">Medical Laboratory Technologist · Computational Biologist · Bioinformatics · AI Pipelines</p>
-</p>
+<!--
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                    FARHAN ALI // DIGITAL LABORATORY                          ║
+║              Clinical Diagnostics × Computational Biology × AI               ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+-->
 
-<p align="center">
-  Bridging the physical laboratory with computational intelligence.
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0d1117&customColorList=0&text=FARHAN%20ALI&fontColor=00FF9D&fontSize=62&fontAlignY=38&desc=MEDICAL%20LABORATORY%20TECHNOLOGIST%20%7C%20COMPUTATIONAL%20BIOLOGIST&descAlignY=61&descSize=17&animation=twinkling" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=Clinical+Diagnostics+%3E%3E%3E+Computational+Biology;Genomics+%7C+Multi-Omics+%7C+AI+Pipelines;Laboratory+Data+%7C+Simulation+%7C+Bioinformatics;Translating+Biological+Signals+into+Clinical+Insight" alt="Typing SVG" />
+</a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=farhanali-researcher&style=for-the-badge&color=00FF9D&label=PROFILE+SCANS" alt="Profile views"/>
+&nbsp;
+<a href="https://github.com/farhanali-researcher?tab=followers">
+<img src="https://img.shields.io/github/followers/farhanali-researcher?style=for-the-badge&color=00E5FF&labelColor=0d1117&label=FOLLOWERS" alt="GitHub followers"/>
+</a>
+
+</div>
 
 ---
 
-## About
-
-I am a medical laboratory technologist working at the intersection of clinical diagnostics, computational biology, and AI-driven analysis. My trajectory is built around one objective: bridging hands-on clinical laboratory testing with structured, reproducible computational pipelines. 
-
-My clinical training—spanning rotations at Lady Reading Hospital MTI and my current work at Alkhidmat Blood Bank and Diagnostic Center—keeps my computational work grounded in how samples and data are actually generated. I use Python and R to handle biological sequence data, run statistical analyses, and build discrete-event simulations for laboratory workflows.
+## `// SYSTEM.IDENTITY`
 
 <table>
-  <tr><td><b>Focus</b></td><td>Clinical Diagnostics, Computational Biology, AI pipelines, Laboratory Simulation</td></tr>
-  <tr><td><b>Approach</b></td><td>Hands-on clinical diagnostics combined with reproducible computational analysis</td></tr>
-  <tr><td><b>Education</b></td><td>BS Medical Laboratory Technology, Khyber Medical University, Peshawar<br>CGPA 3.69 / 4.00</td></tr>
-  <tr><td><b>Toolkit</b></td><td>Python (BioPython, Ensembl API, pandas), R (ggplot2, Biostrings, simmer), Bash, Linux</td></tr>
-  <tr><td><b>Now</b></td><td>Building sequence analysis tools and discrete-event PCR laboratory simulations</td></tr>
-</table>
+<tr>
+<td width="55%" valign="top">
 
----
+### 🧬 Farhan Ali
 
-## Research Interests
+**Medical Laboratory Technologist & Computational Biologist**
 
-| Area | What draws me to it |
-|:---|:---|
-| **Bioinformatics & Genomics** | Sequence analysis, automated variant annotation, and reproducible data pipelines |
-| **Laboratory Simulation** | Using discrete-event simulation (`simmer`) to model and optimize physical clinical workflows |
-| **AI in Healthcare** | Evaluating AI tools and prompt engineering for clinical research and diagnostics |
-| **Hemoglobin Disorders** | Analyzing the clinical and psychosocial burden of β-thalassemia |
-| **Molecular Diagnostics** | PCR workflows, gene translation pipelines, and turning biological signals into data |
+I work at the intersection of **clinical laboratory diagnostics, computational biology, genomics, AI-driven analysis, and laboratory systems engineering**.
 
----
+My trajectory is built around one objective:
 
-## Computational Toolkit
+> **Bridge the physical laboratory with computational intelligence.**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,r,linux,bash,git,github,vscode&theme=dark" alt="Python, R, Linux, Bash, Git, GitHub, VS Code" />
-</p>
+I combine hands-on clinical laboratory experience (from Lady Reading Hospital MTI to Alkhidmat Blood Bank) with computational approaches for biological data. My focus is on **reproducible AI pipelines, genomic sequence analysis, and discrete-event laboratory simulation**.
 
-| Task | Tools |
-|:---|:---|
-| Sequence analysis & API querying | Python, BioPython, Ensembl REST API |
-| Data handling & Visualization | R (tidyverse, ggplot2), Python (pandas, openpyxl) |
-| Statistical analysis | R, SPSS |
-| Process modeling | R (`simmer`) |
-| Systems & Automation | Linux, Bash scripting |
-| Workflow | Git, GitHub, VS Code |
+</td>
 
----
-
-## Featured Projects
-
-| Project | Focus | Tools |
-|:---|:---|:---|
-| **Variant Annotation Pipeline** | Automated scripts querying the Ensembl REST API for NGS variant annotation | Python, Ensembl API |
-| **Gene Translation Pipeline** | Computational pipeline for translating sequences and analyzing genes | R, Biostrings |
-| **PCR Lab Simulation** | Discrete-event clinical workflow simulation to optimize throughput in a PCR laboratory | R, simmer |
-| **Thalassemia Research Analysis** | Statistical analysis of undergraduate thesis data submitted to Thalassemia Reports | R, SPSS |
-
----
-
-## Currently Learning
+<td width="45%" valign="top">
 
 ```text
-Clinical Diagnostics → Python/R Automation → Bioinformatics Pipelines
-                     → AI Integration → Discrete-Event Simulation → Precision Medicine
+┌────────────────────────────────────┐
+│        BIOLOGICAL COMPUTING        │
+├────────────────────────────────────┤
+│                                    │
+│  INPUT                             │
+│    ↓                               │
+│  Clinical Specimens                │
+│    ↓                               │
+│  Laboratory Diagnostics            │
+│    ↓                               │
+│  Structured Biological Data        │
+│    ↓                               │
+│  Computational Analysis            │
+│    ↓                               │
+│  AI / Multi-Omics Pipelines        │
+│    ↓                               │
+│  Simulation & Modeling             │
+│    ↓                               │
+│  CLINICAL INSIGHT                  │
+│                                    │
+└────────────────────────────────────┘
